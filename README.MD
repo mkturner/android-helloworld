@@ -1,6 +1,6 @@
 # Hello World (Android)
 ##Screenshot
-![Marvin's Hello World Screenshot](https://cloud.githubusercontent.com/assets/8616618/5337950/9f82fc08-7e9c-11e4-9193-2bdb5bb5765e.png)
+![Marvin's Hello World Screenshot small](https://cloud.githubusercontent.com/assets/8616618/5338136/a823b9a4-7e9e-11e4-8009-3b5b2ae1a305.png)
 
 ## Intro
 
